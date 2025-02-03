@@ -1,0 +1,23 @@
+2025-01-25 14:05:55,304 - INFO - Output directory validated/created: C:\Users\KIIT\Desktop\output_jk.jpg
+2025-01-25 14:06:41,705 - INFO - Output directory validated/created: C:\Users\KIIT\Desktop\output_jk.jpg
+2025-01-25 14:09:09,225 - INFO - Output directory validated/created: C:\Users\KIIT\Desktop\output_jk.jpg
+2025-01-25 14:13:00,090 - INFO - Output directory validated/created: C:\Users\KIIT\Desktop\output_jk.jpg
+2025-01-25 14:13:01,241 - INFO - Processing jk
+2025-01-25 14:13:01,242 - ERROR - Error processing C:\Users\KIIT\Desktop\jk.jpg: 'Namespace' object has no attribute 'face_enhance'
+2025-01-25 14:13:01,252 - INFO - Processing complete. Successfully processed 0/1 images
+2025-01-25 14:14:53,556 - INFO - Output directory validated/created: C:\Users\KIIT\Desktop\output_jk.jpg
+2025-01-25 14:14:54,701 - INFO - Processing jk
+2025-01-25 14:14:54,701 - ERROR - Error processing C:\Users\KIIT\Desktop\jk.jpg: 'Namespace' object has no attribute 'face_enhance'
+2025-01-25 14:14:54,711 - INFO - Processing complete. Successfully processed 0/1 images
+2025-01-25 14:16:59,179 - INFO - Output directory validated/created: C:\Users\KIIT\Desktop\output_jk.jpg
+2025-01-25 14:17:00,348 - INFO - Processing jk
+2025-01-25 14:17:00,930 - ERROR - Error processing C:\Users\KIIT\Desktop\jk.jpg: local variable 'output_tile' referenced before assignment
+2025-01-25 14:17:00,930 - INFO - Processing complete. Successfully processed 0/1 images
+2025-01-25 14:19:02,111 - INFO - Output directory validated/created: C:\Users\KIIT\Desktop\output_jk.jpg
+2025-01-25 14:19:03,262 - INFO - Processing jk
+2025-01-25 14:19:11,423 - INFO - Processing complete. Successfully processed 1/1 images
+2025-01-25 14:41:00,886 - INFO - Output directory validated/created: C:\Users\KIIT\Desktop\output
+2025-01-25 14:41:02,822 - INFO - Processing 1
+2025-01-25 14:41:20,415 - INFO - Processing 2
+2025-01-25 14:41:37,509 - INFO - Processing 3
+2025-01-25 14:41:55,947 - INFO - Processing complete. Successfully processed 3/3 images
